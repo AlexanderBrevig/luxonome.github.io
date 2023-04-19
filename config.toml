@@ -1,0 +1,14 @@
+baseURL = 'http://www.luxonome.com'
+languageCode = 'en-us'
+title = 'Luxonome'
+theme = "yourfolio"
+
+[[menu.main]]
+name = "About"
+weight = 1
+url = "/about"
+
+[params]
+# env = "development"
+# logoImage = "img/logo.png"
+# logoImageAlt = "Yourfolio Theme brand logo"
